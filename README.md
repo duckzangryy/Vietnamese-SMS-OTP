@@ -1,4 +1,4 @@
-# Vietnamese SMS/OTP API Monorepo
+<img width="1695" height="920" alt="image" src="https://github.com/user-attachments/assets/84a5e13a-4448-4bad-a331-3b344ca15524" /># Vietnamese SMS/OTP API Monorepo
 
 A high-performance SMS gateway API service specifically designed for the Vietnamese market, built as a modern monorepo with separate backend API and frontend dashboard.
 
